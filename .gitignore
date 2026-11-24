@@ -1,0 +1,11 @@
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+.kotlin/
+# Signierschlüssel nie ins Repo
+*.p12
+*.jks
+*.keystore
+*.b64
